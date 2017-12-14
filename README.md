@@ -8,7 +8,11 @@ to help students who are currently studying the GCSE music specification.
 
 Here a the the features that I proposed:
 -Zooming accessibility function
+<br/>
 -Explaination of world music from various continents
+<br/>
 -Images that are relevant to the topics
+<br/>
 -Responsive design
+<br/>
 -Scripts that enhance user experience
