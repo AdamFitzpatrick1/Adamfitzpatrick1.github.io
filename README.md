@@ -7,6 +7,7 @@ The purpose of this website is to educate anyone and everyone about the topic of
 to help students who are currently studying the GCSE music specification.
 
 Here a the the features that I proposed:
+<br/>
 -Zooming accessibility function
 <br/>
 -Explaination of world music from various continents
