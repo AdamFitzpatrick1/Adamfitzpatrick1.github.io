@@ -17,4 +17,5 @@ Here a the the features that I proposed:
 *Responsive design
 <br/>
 *Scripts that enhance user experience
+<br/>
 :octocat:
