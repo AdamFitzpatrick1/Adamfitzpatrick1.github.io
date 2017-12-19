@@ -20,5 +20,5 @@ Here a the the features that I proposed:
 <br/>
 *Forms
 <br/>
-![Website Screenshot](https://ibb.co/bZ4hx6)
+<a href="https://ibb.co/bZ4hx6"><img src="https://preview.ibb.co/bKdmPm/Screen_Shot_2017_12_19_at_14_42_16.png" alt="Screen_Shot_2017_12_19_at_14_42_16" border="0"></a>
 :octocat:
