@@ -21,7 +21,7 @@ Here a the the features that I proposed:
 *Forms
 <br/>
 <a href="https://ibb.co/bZ4hx6"><img src="https://preview.ibb.co/bKdmPm/Screen_Shot_2017_12_19_at_14_42_16.png" alt="Screen_Shot_2017_12_19_at_14_42_16" border="0"></a>
-@init-ddeamon helped with the shrink animation
+<p>@initd-daemon helped with the shrink animation</p>
 <br/>
 :octocat:
 
