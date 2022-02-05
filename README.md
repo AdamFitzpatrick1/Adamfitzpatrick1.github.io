@@ -10,7 +10,7 @@ Here are the the features that I proposed:
 <br/>
 - [x] Zooming accessibility function
 <br/>
-*Explaination of world music from various continents
+- [x] Explaination of world music from various continents
 <br/>
 - [x] Images that are relevant to the topics
 <br/>
